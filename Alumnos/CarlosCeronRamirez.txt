@@ -1,0 +1,4 @@
+Nombre:--Carlos Ceron Ramirez
+Carrera:--TIDSM
+Concepto aprendido: -- hoy aprendi a crear ramas, a clonar respositorios, a crear commits,
+ a poner comandos para verificar las ramas que tenemos creadas. 
