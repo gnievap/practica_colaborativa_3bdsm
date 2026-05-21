@@ -1,0 +1,3 @@
+Nombre: --  Najaidi Guadalupe Pérez Jiménez
+Carrera: -- TIDSM
+Concepto aprendido -- Crear ramas con "git checkout -b 'algo'" y a verificar si la rama se creo con "git branch"
