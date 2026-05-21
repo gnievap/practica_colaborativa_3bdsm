@@ -1,0 +1,3 @@
+Nombre: -- Jorge Sanluis
+Carrera: -- TIDSM
+Concepto aprendido -- Clonar, crear ramas, crear un pull recete 
