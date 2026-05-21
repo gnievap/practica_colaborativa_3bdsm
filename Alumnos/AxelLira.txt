@@ -1,0 +1,3 @@
+Nombre: -- Axel Lira
+Carrera: -- Ingenieria en Desarrollo de software
+Concepto aprendido -- Crear commits, crear archivos de java con metodos, clases padre e hija, hacer repositorios.
