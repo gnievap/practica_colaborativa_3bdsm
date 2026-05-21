@@ -1,0 +1,6 @@
+Nombre: -- Cruz Avendaño Carlos Fernando 
+Carrera: -- TIDSM
+Concepto aprendido -- El concepto de ramas (branch) en git, 
+creacion, y pull request, la fusion de las ramas dentro de un
+repositorio de git
+Arriva las chivas!!!!
