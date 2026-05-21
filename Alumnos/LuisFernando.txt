@@ -3,4 +3,4 @@ que tendrá su nombre y apellido
 escribirán:
 Nombre: -- Luis Fernando
 Carrera: -- T.S.U en Desarrollo de Software Multiplataforma
-Concepto aprendido -- Trabajar con Java, Sistemas Operativos, hacer commits, clonar repositorios, Conceptos de Base De Datos
+Concepto aprendido -- Odio mi vida
