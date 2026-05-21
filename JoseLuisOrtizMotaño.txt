@@ -1,0 +1,3 @@
+Nombre: -- Jose Luis Ortiz Montaño
+Carrera: -- Ingenieria Desarrollo De Software Multiplataforma
+Comcepto aprendido: -- Crear una rama diferente, hacer commits, Clonar, Checar la rama en la que estamos
