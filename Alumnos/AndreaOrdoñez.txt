@@ -1,0 +1,5 @@
+Nombre: Andrea Aislinn Ordoñez Garcia
+Carrera: TIDSM
+Concepto Aprendido -- Clonar, crear ramas Usando el comando "git checkout", cambiar de ramas poniendoles 
+                      el nombre que queramos, verificar en qué rama nos encontramos usando el comando "git 
+                      branch". Y ver en que repo nos estamos conectado usando el "git remote -v"
