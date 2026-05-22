@@ -1,0 +1,7 @@
+En un nuevo archivo de texto
+que tendrá su nombre y apellido
+escribirán:
+Nombre: -- Carlos danile huerta de la vega
+Carrera: -- TIDSM
+Concepto aprendido -- clonar, crear tamas, crear un pull request
+
